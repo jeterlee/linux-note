@@ -6,6 +6,8 @@
 - [不用装双系统，直接在Windows上体验Linux](https://www.imooc.com/article/24537)
 - [Linux常用工具之XFTP、Xshell配置](https://www.cnblogs.com/Lam7/p/5454163.html)
 - [linux系统查看IP地址，不显示IP地址或者只显示127.0.0.1](https://blog.csdn.net/qq_36769100/article/details/71473632)
+- [ubuntu下安装VNC远程桌面的详细步骤](http://www.jb51.net/os/Ubuntu/104948.html)
+- [Linux 开启VNC远程管理服务的图形界面操作(解决灰色画面问题)](https://www.linuxidc.com/Linux/2016-05/131319.htm)
 
 
 ## Question
