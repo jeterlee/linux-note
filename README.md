@@ -9,6 +9,11 @@
 - [ubuntu下安装VNC远程桌面的详细步骤](http://www.jb51.net/os/Ubuntu/104948.html)
 - [Linux 开启VNC远程管理服务的图形界面操作(解决灰色画面问题)](https://www.linuxidc.com/Linux/2016-05/131319.htm)
 - [Xshell5 连接Virtualbox中Ubuntu虚拟机](https://blog.csdn.net/tianzhaixing2013/article/details/52129799)
+- [Ubuntu创建启动器（快捷方式）的方式](https://blog.csdn.net/qq_28885149/article/details/51565267)
+- [手把手教你在ubuntu下创建桌面快捷方式](https://blog.csdn.net/aristolto/article/details/50554258)
+- [ubuntu/linux桌面添加快捷方式](https://jingyan.baidu.com/article/5553fa82c641ba65a23934a5.html)
+- [VirtualBox NAT+host-only高级网络配置 ,实现互通](https://blog.csdn.net/samxx8/article/details/78879517)
+- [VirtualBox实现宿主机和虚拟机之间网络的通讯](https://blog.csdn.net/lyelyelye/article/details/78827024)
 
 
 ## Question
